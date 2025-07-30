@@ -1,0 +1,11 @@
+Leaving Timestamp,Parking Cost,Parking Lot,Parking Lot Address,Parking Spot ID,Parking Timestamp,Payment Amount,Payment Method,Payment Time,Pincode,Reservation Active,Reservation ID,User Email,Vehicle Name,Vehicle Number
+2025-07-25 23:00:39,8.97,mumbai,aa,1,2025-07-25 18:31:33,8.97,UPI,2025-07-25 23:00:52,fvf,False,1,user1@gmail.com,honda city,JH012345
+2025-07-25 21:27:22,,mumbai,aa,2,2025-07-25 18:40:56,,,,fvf,False,3,user1@gmail.com,honda city,JH012345
+2025-07-26 18:58:51,37.23,mumbai,aa,1,2025-07-26 00:21:49,37.23,UPI,2025-07-26 18:59:02,fvf,False,9,user1@gmail.com,honda city,JH012345
+2025-07-26 02:01:06,0.01,mumbai,aa,2,2025-07-26 02:00:46,0.01,UPI,2025-07-26 02:01:29,fvf,False,10,user1@gmail.com,honda city,JH012345
+2025-07-26 18:59:53,0.01,mumbai,aa,1,2025-07-26 18:59:41,0.01,Card,2025-07-26 19:00:01,fvf,False,11,user1@gmail.com,honda city,JH012345
+2025-07-28 23:12:52,,mumbai,aa,1,2025-07-28 18:30:05,,,,fvf,False,13,user1@gmail.com,honda city,JH012345
+2025-07-30 06:49:19,0.04,mumbai,aa,1,2025-07-30 06:49:12,0.04,Card,2025-07-30 06:49:23,fvf,False,22,user1@gmail.com,honda city,JH012345
+2025-07-30 20:47:44,8.63,surat,vgw,20,2025-07-30 20:24:12,8.63,Card,2025-07-30 20:47:49,1133,False,24,user1@gmail.com,honda city,JH012345
+2025-07-30 16:32:57,,surat,vgw,21,2025-07-30 20:47:16,,,,1133,False,25,user1@gmail.com,bmw,9876
+2025-07-30 16:34:58,0.13,blr,hyd,23,2025-07-30 16:34:42,0.13,UPI,2025-07-30 16:35:06,12345,False,27,user1@gmail.com,bmw,9876
