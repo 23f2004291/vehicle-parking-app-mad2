@@ -74,6 +74,13 @@ This solution leverages modern technologies such as **Flask**, **VueJS**, **Cele
 ### 🚧 Backend
 
 ```bash
+
+# create virtual environment
+python -m venv .venv
+
+#enter virtual envronment
+source .venv/bin/activate
+
 # Set up Python environment
 pip install -r requirements.txt
 
